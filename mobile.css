@@ -1,4 +1,4 @@
-/*#what .items {
+#what .items {
     display:block;
     padding: 1rem;;
 }
@@ -12,7 +12,7 @@ position icon
     align-self: center;
     margin-bottom: 0;
 }
-/* smartphone
+/* smartphone*/
 @media(max-width:500px){
 #navbar{
     flex-direction: column;
